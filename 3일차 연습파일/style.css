@@ -1,6 +1,13 @@
 .sct01 {
     height: 100vh;
     background-color: #ececec;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.sctbox {
+    width: 250px; height: 600px;
+    background-color: #313313;
 }
 .sct02 {
     height: 100vh;
